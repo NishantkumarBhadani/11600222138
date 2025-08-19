@@ -1,0 +1,1 @@
+export const ACCESS_TOKEN = 'your-hardcoded-access-token-here';
